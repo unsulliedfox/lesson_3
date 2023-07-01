@@ -1,10 +1,10 @@
 # Работа с Git
 
-
 ## Использование Git в PowerShell и Bash
 
-### PowerShell
+## Списки
 
-### Bash
+## Работа с изображениями
+![image](git_mem.jpg)
 
 ## Установка и конфигурация Git
