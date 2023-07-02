@@ -31,6 +31,8 @@
 
 - <span style="color:orange">git init</span> - Инициализирует новый Git репозиторий в текущей директории.
 
+<span style="color:orange">git log --pretty=oneline --abbrev-commit</span> - вывод
+
 
 ### Команды работы с файловой системой:
 
